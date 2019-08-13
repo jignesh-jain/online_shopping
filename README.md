@@ -1,1 +1,1 @@
-# online_shopping
+# Online Shopping Applicaton for Android Devices
